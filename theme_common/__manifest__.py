@@ -12,4 +12,5 @@
         'views/old_snippets/s_three_columns_circle.xml',
     ],
     'license': 'LGPL-3',
+    'installable': True,
 }
