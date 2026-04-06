@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_yes
-# 
+# * theme_yes
+#
 # Translators:
 # Ronald Kung, 2025
-# 
+#
+# Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Ronald Kung, 2025\n"
-"Language-Team: Hindi (https://app.transifex.com/odoo/teams/41243/hi/)\n"
+"PO-Revision-Date: 2026-01-10 18:41+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Hindi <https://translate.odoo.com/projects/odoo-18/theme_yes/"
+"hi/>\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: hi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_quotes_carousel_minimal
@@ -176,7 +179,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_basic
 msgid "Aline Turner"
-msgstr ""
+msgstr "एलिन टर्नर"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_media_list
@@ -490,7 +493,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_masonry_block_default_template
 msgid "FAQ"
-msgstr ""
+msgstr "अक्सर पूछने जाने वाले सवाल"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_masonry_block_default_template
@@ -562,7 +565,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_kickoff
 msgid "Get Started"
-msgstr ""
+msgstr "शुरू करें"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_empowerment
@@ -589,7 +592,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_basic
 msgid "Iris Joe"
-msgstr ""
+msgstr "आइरिस जो"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_quotes_carousel
@@ -694,7 +697,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_basic
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_title
 msgid "Meet our team"
-msgstr ""
+msgstr "हमारी टीम से मिलें"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_cover
@@ -752,7 +755,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "हमारी सेवाएं"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_key_benefits
@@ -819,7 +822,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_masonry_block_default_template
 msgid "Shop"
-msgstr ""
+msgstr "दुकान"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_detail
@@ -924,7 +927,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_basic
 msgid "Tony Fred"
-msgstr ""
+msgstr "टोन फ्रेड"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_image_title

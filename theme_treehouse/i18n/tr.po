@@ -1,26 +1,28 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_treehouse
-# 
+# * theme_treehouse
+#
 # Translators:
 # Yedigen, 2024
 # Tugay Hatıl <tugayh@projetgrup.com>, 2024
 # Murat Durmuş <muratd@projetgrup.com>, 2024
 # Deniz Guvener_Odoo <degu@odoo.com>, 2025
-# 
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:28+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Deniz Guvener_Odoo <degu@odoo.com>, 2025\n"
-"Language-Team: Turkish (https://app.transifex.com/odoo/teams/41243/tr/)\n"
+"PO-Revision-Date: 2025-12-06 18:40+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Turkish <https://translate.odoo.com/projects/odoo-18/"
+"theme_treehouse/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_quotes_carousel_minimal
@@ -126,6 +128,12 @@ msgid ""
 "        Environmental protection is the practice of safeguarding the natural world from harmful human activities and preserving ecosystems for future generations. It involves efforts to reduce pollution, conserve biodiversity, and sustainably manage natural resources such as air, water, and soil.\n"
 "        <br/>"
 msgstr ""
+"<br/>\n"
+"        Çevre koruma, doğal dünyayı zararlı insan faaliyetlerinden koruma ve "
+"ekosistemleri gelecek nesiller için muhafaza etme uygulamasıdır. Kirliliği "
+"azaltma, biyolojik çeşitliliği koruma ve hava, su ve toprak gibi doğal "
+"kaynakları sürdürülebilir bir şekilde yönetme çabalarını içerir.\n"
+"       <br/>"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_sidegrid
@@ -133,6 +141,9 @@ msgid ""
 "<br/>\n"
 "        Every step we take towards sustainability is a commitment to preserving nature's beauty and resources, for today and tomorrow."
 msgstr ""
+"<br/>\n"
+"        Sürdürülebilirlik yolunda attığımız her adım, bugün ve yarın için "
+"doğanın güzelliğini ve kaynaklarını korumaya yönelik bir taahhüttür."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -140,6 +151,11 @@ msgid ""
 "<br/>\n"
 "        From carbon footprint reduction to renewable energy adoption and biodiversity preservation, our key milestones reflect our commitment to creating a sustainable future for all."
 msgstr ""
+"<br/>\n"
+"        Karbon ayak izinin azaltılmasından yenilenebilir enerjinin "
+"benimsenmesine ve biyoçeşitliliğin korunmasına kadar önemli kilometre "
+"taşlarımız, herkes için sürdürülebilir bir gelecek yaratma konusundaki "
+"kararlılığımızı yansıtmaktadır."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_cover
@@ -149,6 +165,10 @@ msgid ""
 "management, making it easy to engage supporters and drive positive "
 "change.<br/>"
 msgstr ""
+"<br/>Kurulumdan kampanya yönetimine kadar tüm adımları basitleştiren "
+"kullanıcı dostu bir platformla çevre girişimlerinizi ve projelerinizi "
+"vurgulayın, destekçilerin ilgisini çekmeyi ve olumlu değişimi teşvik etmeyi "
+"kolaylaştırın.<br/>"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -175,7 +195,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_color_blocks_2
 msgid "A Call for Environmental Protection"
-msgstr ""
+msgstr "Çevrenin Korunması İçin Bir Çağrı"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_image_title
@@ -194,12 +214,12 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_freegrid
 msgid "Be Part of the Change"
-msgstr ""
+msgstr "Değişimin Bir Parçası Olun"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_card_offset
 msgid "Be part of the change."
-msgstr ""
+msgstr "Değişimin bir parçası olun."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -231,12 +251,12 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Committed to a Greener Future"
-msgstr ""
+msgstr "Daha Yeşil Bir Gelecek İçin"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Community Engagement"
-msgstr ""
+msgstr "Toplumsal Katılım"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_images
@@ -270,12 +290,12 @@ msgstr "Kişiye Özel Koruma Programları"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
 msgid "Customized Solutions"
-msgstr ""
+msgstr "Özelleştirilmiş Çözümler"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_images_mosaic
 msgid "Discover Our Eco-Friendly Solutions"
-msgstr ""
+msgstr "Çevre Dostu Çözümlerimizi Keşfedin"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -304,7 +324,7 @@ msgstr "Çevre Dostu Peyzaj"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Eco-Friendly Materials"
-msgstr ""
+msgstr "Çevre Dostu Malzemeler"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_images
@@ -319,7 +339,7 @@ msgstr "Nesli Tükenmekte Olan Türlerin Korunması"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Energy Efficiency"
-msgstr ""
+msgstr "Enerji Verimliliği"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_features_wall
@@ -329,7 +349,7 @@ msgstr "Çevresel Koruma Çabaları"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
 msgid "Exclusive Insights"
-msgstr ""
+msgstr "Özel İçgörüler"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -357,6 +377,8 @@ msgid ""
 "Explore more and get involved in our ecological programs, designed to make a"
 " positive impact and ensure a sustainable future."
 msgstr ""
+"Daha fazlasını keşfedin ve olumlu bir etki yaratmak ve sürdürülebilir bir "
+"gelecek sağlamak için tasarlanmış ekolojik programlarımıza katılın."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
@@ -365,6 +387,9 @@ msgid ""
 "protect and enhance our planet. Each service is tailored to meet your "
 "sustainability goals."
 msgstr ""
+"Gezegenimizi korumak ve geliştirmek için tasarlanmış kapsamlı çevre "
+"hizmetleri yelpazemizi keşfedin. Her hizmet, sürdürülebilirlik hedeflerinizi "
+"karşılamak için özel olarak tasarlanmıştır."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_quadrant
@@ -380,12 +405,12 @@ msgstr "Katılın"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_features_wall
 msgid "Green Advocacy &amp; Education"
-msgstr ""
+msgstr "Yeşil Savunuculuk &amp; Eğitim"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "Green Building Certification"
-msgstr ""
+msgstr "Yeşil Bina Sertifikası"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -414,27 +439,27 @@ msgstr "Gelecek nesiller için korumamıza ve yaşatmamıza yardımcı olun"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_intro_pill
 msgid "Help us protect<br/>the environment"
-msgstr ""
+msgstr "<br/>çevreyi korumamıza yardımcı olun"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cta_box
 msgid "Help us<br/>shape the future"
-msgstr ""
+msgstr "Geleceği şekillendirmemize<br/>yardımcı olun"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_carousel_intro
 msgid "Impactful environmental solutions"
-msgstr ""
+msgstr "Etkili çevresel çözümler"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
 msgid "Innovation and Outreach"
-msgstr ""
+msgstr "İnovasyon ve Erişim"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_images
 msgid "Innovative solutions for sustainable living"
-msgstr ""
+msgstr "Sürdürülebilir yaşam için yenilikçi çözümler"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
@@ -442,6 +467,9 @@ msgid ""
 "Installation and management of renewable energy systems such as solar panels"
 " and wind turbines to reduce carbon footprint and energy costs."
 msgstr ""
+"Karbon ayak izini ve enerji maliyetlerini azaltmak için güneş panelleri ve "
+"rüzgar türbinleri gibi yenilenebilir enerji sistemlerinin kurulumu ve "
+"yönetimi."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cta_box
@@ -491,6 +519,9 @@ msgid ""
 "development. We focus on creating a greener future through innovative "
 "ecological solutions."
 msgstr ""
+"Çevreyi koruma ve sürdürülebilir kalkınmayı teşvik etme misyonumuzda bize "
+"katılın. Yenilikçi ekolojik çözümlerle daha yeşil bir gelecek yaratmaya "
+"odaklanıyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_quadrant
@@ -499,6 +530,10 @@ msgid ""
 "initiatives focus on eco-friendly practices and sustainable "
 "development.<br/><br/> Be part of the change for a greener future."
 msgstr ""
+"Sürdürülebilirliği teşvik etmek ve çevreyi korumak için bize katılın. "
+"Girişimlerimiz çevre dostu uygulamalara ve sürdürülebilir kalkınmaya "
+"odaklanmaktadır.<br/><br/> Daha yeşil bir gelecek için değişimin bir parçası "
+"olun."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -542,7 +577,7 @@ msgstr "Daha fazla bilgi <i class=\"fa fa-long-arrow-right ms-2\"/>"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
 msgid "Ongoing Support"
-msgstr ""
+msgstr "Sürekli Destek"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -552,7 +587,7 @@ msgstr "Organik Bahçe"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "Our Environmental Services"
-msgstr ""
+msgstr "Çevre Hizmetlerimiz"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
@@ -568,7 +603,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
 msgid "Our destinations"
-msgstr ""
+msgstr "Varış noktalarımız"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cover
@@ -585,6 +620,8 @@ msgid ""
 "Our team provides continuous assistance and expertise, ensuring you receive "
 "guidance and support throughout your environmental initiatives."
 msgstr ""
+"Ekibimiz, çevresel girişimleriniz boyunca rehberlik ve destek almanızı "
+"sağlayarak size sürekli yardım ve uzmanlık sunar."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_features_wall
@@ -613,12 +650,12 @@ msgstr "Gelecek Nesiller İçin Gezegenimizi Korumak"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_carousel_intro
 msgid "Protecting nature for future generations"
-msgstr ""
+msgstr "Gelecek nesiller için doğayı korumak"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
 msgid "Quality and Impact"
-msgstr ""
+msgstr "Kalite ve Etki"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -647,7 +684,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "Renewable Energy Solutions"
-msgstr ""
+msgstr "Yenilenebilir Enerji Çözümleri"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -657,7 +694,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_unveil
 msgid "Shape a greener tomorrow"
-msgstr ""
+msgstr "Daha yeşil bir yarını şekillendirin"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_image
@@ -681,7 +718,7 @@ msgstr "Tanıtıma Başlayın"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_carousel_intro
 msgid "Support our eco mission"
-msgstr ""
+msgstr "Ekolojik misyonumuzu destekleyin"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_features_wall
@@ -705,18 +742,18 @@ msgstr "Sürdürülebilirlik"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_striped_center_top
 msgid "Sustainability crafted with care"
-msgstr ""
+msgstr "Özenle hazırlanmış sürdürülebilirlik"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_card_offset
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_freegrid
 msgid "Sustainability for a Better Tomorrow"
-msgstr ""
+msgstr "Daha İyi Bir Yarın İçin Sürdürülebilirlik"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Sustainable Practices"
-msgstr ""
+msgstr "Sürdürülebilir Uygulamalar"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
@@ -753,6 +790,9 @@ msgid ""
 "protection meets sustainability. Elevate your impact with projects that "
 "blend ecological responsibility and effective conservation seamlessly."
 msgstr ""
+"Korumanın sürdürülebilirlikle buluştuğu özel girişimlerimizle çevresel "
+"çabalarınızı dönüştürün. Ekolojik sorumluluk ve etkili korumayı sorunsuz bir "
+"şekilde harmanlayan proje yönetimi ile etkinizi artırın."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -762,7 +802,7 @@ msgstr "Dikilen Ağaçlar"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "Waste Management Consulting"
-msgstr ""
+msgstr "Atık Yönetimi Danışmanlığı"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -776,6 +816,9 @@ msgid ""
 " participate in local green initiatives, fostering a collective effort "
 "toward a more sustainable future."
 msgstr ""
+"Çevresel farkındalığı artırmak ve yerel yeşil girişimlere katılmak için "
+"topluluğumuzla aktif olarak etkileşimde bulunuyor, daha sürdürülebilir bir "
+"geleceğe yönelik kolektif bir çabayı teşvik ediyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -784,6 +827,9 @@ msgid ""
 "environmental needs. Our team works with you to implement effective "
 "solutions that protect and restore nature."
 msgstr ""
+"Belirli çevresel ihtiyaçları karşılamak için özel koruma stratejileri "
+"geliştiriyoruz. Ekibimiz, doğayı koruyan ve restore eden etkili çözümleri "
+"uygulamak için sizinle birlikte çalışır."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
@@ -791,6 +837,9 @@ msgid ""
 "We develop tailored strategies and solutions to address your unique "
 "environmental challenges and goals, promoting sustainability and impact."
 msgstr ""
+"Kendinize has çevresel zorluklarınızı ve hedeflerinizi ele almak, "
+"sürdürülebilirliği ve etki yaratmayı teşvik etmek için özel stratejiler ve "
+"çözümler geliştiriyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -799,6 +848,9 @@ msgid ""
 "conservation goals. Using the latest practices, we help drive positive "
 "environmental change."
 msgstr ""
+"Koruma hedeflerimizi ilerletmek için yenilikçi yöntemler kullanıyor ve "
+"topluluklarla etkileşim kuruyoruz. En yeni uygulamaları kullanarak, olumlu "
+"çevresel değişimin sağlanmasına yardımcı oluyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
@@ -807,6 +859,9 @@ msgid ""
 "from reducing waste and conserving resources to supporting eco-friendly "
 "initiatives."
 msgstr ""
+"Atıkları azaltmak ve kaynakları korumaktan çevre dostu girişimleri "
+"desteklemeye, operasyonlarımızın tüm yönlerinde sürdürülebilir uygulamalar "
+"tercih ediyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
@@ -814,6 +869,9 @@ msgid ""
 "We prioritize energy efficiency in our operations, adopting practices and "
 "technologies that reduce energy consumption and lower our carbon footprint."
 msgstr ""
+"Operasyonlarımızda enerji verimliliğini önceliklendiriyor, enerji tüketimini "
+"azaltan ve karbon ayak izimizi düşüren uygulamaları ve teknolojileri "
+"benimsiyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -823,7 +881,7 @@ msgstr "Topluluğumuza sunduklarımız"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "Wildlife Habitat Restoration"
-msgstr ""
+msgstr "Yaban Hayatı Habitat Restorasyonu"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_image
@@ -842,6 +900,9 @@ msgid ""
 "impact projects that make a meaningful difference in preserving natural "
 "habitats."
 msgstr ""
+"Kapsamlı uzmanlığımız ve koruma konusundaki kararlılığımızla, doğal yaşam "
+"alanlarının korunmasında anlamlı bir fark yaratan yüksek etkili projeler "
+"sunuyoruz."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_picture
@@ -855,18 +916,21 @@ msgid ""
 "initiative is sustainable and impactful, fostering a healthier environment "
 "for future generations."
 msgstr ""
+"Desteğiniz misyonumuz için hayati önem taşımaktadır. Kendini işine adamış "
+"ekibimiz, her girişimin sürdürülebilir ve etkili olmasını sağlayarak gelecek "
+"nesiller için daha sağlıklı bir ortamı teşvik etmektedir."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_big_number
 msgid "trees planted since last year"
-msgstr ""
+msgstr "geçen yıldan bu yana dikilen ağaçlar"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "✽  Conservation Services"
-msgstr ""
+msgstr "✽ Koruma Hizmetleri"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
 msgid "✽  Sustainability Solutions"
-msgstr ""
+msgstr "✽ Sürdürülebilirlik Çözümleri"

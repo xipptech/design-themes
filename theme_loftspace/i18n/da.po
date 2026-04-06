@@ -1,25 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_loftspace
-# 
+# * theme_loftspace
+#
 # Translators:
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Martin Trigaux, 2024
 # Sammi Iversen <sammi@vkdata.dk>, 2025
-# 
+# Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:31+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Sammi Iversen <sammi@vkdata.dk>, 2025\n"
-"Language-Team: Danish (https://app.transifex.com/odoo/teams/41243/da/)\n"
+"PO-Revision-Date: 2026-03-28 18:40+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/"
+"theme_loftspace/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: da\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel_minimal
@@ -60,7 +62,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$184.00"
-msgstr ""
+msgstr "184,00 €"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -70,7 +72,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$349.00"
-msgstr ""
+msgstr "349,00 €"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -95,7 +97,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$80.00"
-msgstr ""
+msgstr "80,00 €"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -105,7 +107,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$859.00"
-msgstr ""
+msgstr "859,00 €"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -182,7 +184,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
 msgid "Comprehensive Support"
-msgstr ""
+msgstr "Omfattende support"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
@@ -229,7 +231,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Customer benefits"
-msgstr ""
+msgstr "Kundefordele"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.configurator_s_text_block
@@ -254,7 +256,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
 msgid "Discover More"
-msgstr ""
+msgstr "Få mere at vide"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_text_cover
@@ -532,7 +534,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_call_to_action
 msgid "Our services"
-msgstr ""
+msgstr "Vores serviceydelser"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
@@ -574,12 +576,12 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
 msgid "Rose"
-msgstr ""
+msgstr "Rosa"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
 msgid "Shop Now"
-msgstr ""
+msgstr "Shop nu"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -603,7 +605,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "Sustainable Materials"
-msgstr ""
+msgstr "Bæredygtige materialer"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
